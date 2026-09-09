@@ -1,0 +1,37 @@
+
+// {
+
+//     "useremail" :"shresti.singh@bbsihq.com",
+//     "password" : "Neelamdeepak@456",
+//     "question":"Question 102",
+//     "totalmarks":"10",
+//     "paper": "question6",
+//     "popupmarks":"10"
+  
+
+
+
+
+// }
+
+
+/// if multiple parameters to added 
+
+[{
+   "useremail":"shrestisingh456@gmail.com",
+     "password" : "Letmein1!",
+     "productname":"iphone 13"
+
+},
+
+{
+
+    "useremail":"soumyasingh456@gmail.com",
+     "password" : "Letmein1!",
+     "productname":"Zara coat 4"
+}
+
+
+
+
+]
